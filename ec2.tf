@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-west-2"
-  access_key = "AKIAWNCQTFAIFOURIVKK"
-  secret_key = "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"
+  access_key = "A*********K"
+  secret_key = "a*******K"
 }
 
 resource "aws_instance" "myec2" {
